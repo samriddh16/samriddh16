@@ -41,8 +41,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![Samriddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=radical)  
+
+<!-- GitHub Stats -->
+![Samriddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samriddh-das&show_icons=true&theme=default)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh-das&layout=compact&theme=default)
 
 ---
 
