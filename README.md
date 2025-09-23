@@ -15,8 +15,8 @@
 
 ---
 
-## 📈 LeetCode Profile  
-![LeetCode Stats](https://leetcard.jacoblin.cool/sammy16?theme=dark&font=Karma&ext=heatmap)  
+## 📈 LeetCode Profile
+![LeetCode Stats](https://leetcard.jacoblin.cool/sammy16?theme=dark_blue&font=Karma&ext=heatmap&height=180&width=700)
 
 ---
 
@@ -42,12 +42,10 @@
 
 ## 📊 GitHub Stats  
 
-<!-- GitHub Stats -->
-![Samriddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=default)
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=default)
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=dark_blue" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=dark_blue" width="48%"/>
+</div>
 ---
 
 ## 🏗️ Highlighted Projects  
