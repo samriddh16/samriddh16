@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Samriddh Das  
 
 🎓 B.Tech 3rd Year | KIIT University (CGPA: 9.44)  
-💻 Aspiring Software Engineer | Backend & Cloud Enthusiast  
+💻 Aspiring Software Engineer | Backend, DSA & Cloud Enthusiast  
 
 ---
 
-## 🚀 About Me
+## 🚀 My Techstack
 - 🍃 **Spring Core & Spring Boot** (MVC, JPA, MongoDB) – building smart, modular, and scalable backend systems.  
 - 🗃️ **SQL & Oracle DB** – mastering databases, queries, and efficient data storage.  
 - ⚡ **Hibernate, JDBC & Servlets** – full-stack backend development with hands-on expertise.  
