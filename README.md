@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=synthwave&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=synthwave&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=cobalt&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=cobalt&hide_border=false" width="48%"/>
 </div>
 
 ---
