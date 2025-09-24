@@ -5,47 +5,54 @@
 
 ---
 
-## 🚀 About Me  
-- 🔹 Skilled in **Spring Core** and **Spring Boot** (MVC, JPA, MongoDB).  
-- 🔹 Strong in **SQL, Oracle DB**, and backend design.  
-- 🔹 Hands-on with **Hibernate, JDBC, and Servlets** for full-stack backend development.  
-- 🔹 Currently learning **Microservices & DevOps**.  
-- 🔹 Practicing **Data Structures & Algorithms** daily on [LeetCode](https://leetcode.com/u/sammy16/).  
-- 🔹 Exploring **Cloud (AWS)** as part of my growth journey.  
-
+## 🚀 About Me
+- 🍃 **Spring Core & Spring Boot** (MVC, JPA, MongoDB) – building smart, modular, and scalable backend systems.  
+- 🗃️ **SQL & Oracle DB** – mastering databases, queries, and efficient data storage.  
+- ⚡ **Hibernate, JDBC & Servlets** – full-stack backend development with hands-on expertise.  
+- 🐳 **Microservices & DevOps** – designing distributed systems with CI/CD and cloud-ready pipelines.  
+- 🧠 **Data Structures & Algorithms** – daily brain workouts on [LeetCode](https://leetcode.com/u/sammy16/).  
+- ☁️ **Cloud (AWS)** – deploying cloud-powered solutions and exploring backend-cloud synergy.
 ---
 
 ## 📈 LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/sammy16?theme=black&font=Karma&ext=heatmap&height=200&width=850)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sammy16?theme=unicorn&font=Sahitya&ext=heatmap&height=200&width=850)
+
 
 ---
 
 ## 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Servlet-FF6F00?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<div align="center"> <div style="display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> 
+  <!-- Core language first --> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+  <!-- Core framework stack --> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Servlet-FF6F00?style=for-the-badge&logo=oracle&logoColor=white"/> 
+  <!-- Build tools --> 
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> 
+  <!-- Databases --> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>  
+  <!-- Server/runtime -->
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/> 
+  <!-- VCS / hosting --> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <!-- Cloud --> 
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </div> </div>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=dark&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=blue&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samriddh16&show_icons=true&theme=synthwave&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddh16&layout=compact&theme=synthwave&hide_border=false" width="48%"/>
 </div>
+
 ---
 
 ## 🏗️ Highlighted Projects  
