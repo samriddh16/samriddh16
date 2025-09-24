@@ -49,9 +49,15 @@
 ---
 
 ## 🏗️ Highlighted Projects  
-- **Spring Boot Learning Repo** – 70+ mini-projects (IoC, DI, MVC, JPA, MongoDB).  
-- **LeetCode-Java Solutions** – Clean Java-based DSA solutions.  
-- **SQL/DBMS Practice** – Queries, triggers, and database exercises.  
+- **Spring Boot Learning Repo** – A comprehensive collection of **70+ mini-projects** covering Spring Core (IoC, DI, AOP), Spring Boot fundamentals, Spring Data JPA, Spring Data MongoDB, and Spring MVC. Designed as a complete learning path from beginner to advanced, showcasing enterprise-ready backend development concepts.  
+
+- **SIH 2025 – Smart Eco-Tourism Platform** – Prototype website built for *Smart India Hackathon 2025* on the theme *“Smart Digital Platform for Eco-Tourism in Jharkhand”*.  
+  - **Tech Used:** Python (Flask, TextBlob), HTML5, CSS3, JavaScript (ES6+).  
+  - **Features:** AI-driven recommendation system powered by sentiment analysis, mock data layer (`sample_data.json`), RESTful APIs for search & recommendations, and interactive frontend with live search and dynamic pages.  
+
+- **LeetCode-Java Solutions** – Covers topics: Arrays, Strings, Stack, Queue, QuickSelect, Dynamic Programming, Recursion, Backtracking, Trees, Divide & Conquer, Greedy, Linked List.  
+
+- **SQL/DBMS Practice** – Covers topics: Subqueries, CTEs, Window Functions, PL/SQL, Analytical Queries, Joins, Triggers, Views.
 
 ---
 
